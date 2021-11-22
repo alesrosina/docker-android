@@ -20,6 +20,7 @@
 # pull the most recent tag / release
 docker pull beevelop/android:v2021.06.2
 
+
 # or run the image interactively
 docker run --rm --name beevelop -it beevelop/android:v2021.06.2 bash
 
